@@ -157,16 +157,16 @@ hobbies:
 
 ## 🌐 Conecte-se Comigo
 
-<a href="https://www.linkedin.com/in/eduardo-lopes-torres/" target="_blank">
+<a href="https://www.linkedin.com/in/dev-eduardo-lopes01/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:seu-email@gmail.com">
+<a href="mailto:eduardo.torres@mail.uft.edu.br">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://instagram.com/seu_instagram" target="_blank">
+<a href="https://www.instagram.com/edu_sx2/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://discord.gg/seu_discord" target="_blank">
+<a href="https://discord.gg/716346404074946610" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
