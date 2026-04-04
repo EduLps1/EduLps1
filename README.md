@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%92%BB+Passionate+about+Technology;%F0%9F%8C%90+Creating+Digital+Experiences;%E2%9A%A1+Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%8C%90+Creating+Digital+Experiences;%E2%9A%A1+Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,14 +24,13 @@
 ---
 
 <!-- ABOUT ME -->
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+<img align="right" width="300" src="https://pin.it/43gvEhsbM" alt="Coding GIF"/>
 
 ## 🧑‍💻 Sobre Mim
 
 ```yaml
 name: Eduardo Lopes de Oliveira Torres
 located_in: Brasil 🇧🇷
-pronouns: he/him
 current_focus: Full Stack Development
 education: Ciências da Computação
 
@@ -169,17 +168,6 @@ hobbies:
 <a href="https://discord.gg/716346404074946610" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<!-- RANDOM DEV QUOTE -->
-<div align="center">
-
-## 💭 Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
