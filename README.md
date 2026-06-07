@@ -45,40 +45,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
-
----
-
-##  GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EduLps1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=7b2ff7&icon_color=7b2ff7&text_color=c9d1d9" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduLps1&layout=compact&langs_count=8&hide_border=true&bg_color=0d0d0d&title_color=7b2ff7&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduLps1&hide_border=true&background=0d0d0d&stroke=7b2ff7&ring=7b2ff7&fire=7b2ff7&currStreakLabel=7b2ff7&sideLabels=7b2ff7&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EduLps1&hide_border=true&bg_color=0d0d0d&color=7b2ff7&line=7b2ff7&point=ffffff&area=true&area_color=7b2ff7" width="95%" />
-</p>
-
----
-
-##  Featured Projects
-
-<p align="center">
-  <a href="https://github.com/EduLps1/Academic-Workflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduLps1&repo=Academic-Workflow&hide_border=true&bg_color=0d0d0d&title_color=7b2ff7&icon_color=7b2ff7&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/EduLps1/Engenharia-de-Software-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduLps1&repo=Engenharia-de-Software-&hide_border=true&bg_color=0d0d0d&title_color=7b2ff7&icon_color=7b2ff7&text_color=c9d1d9" />
-  </a>
 </p>
 
 ---
